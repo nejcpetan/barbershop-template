@@ -64,11 +64,11 @@ export default function ReviewsSection() {
             className="mb-6"
           >
             <span className="text-white/60 text-lg uppercase tracking-widest">
-              Kaj pravijo naši
+              Kaj pravijo naše
             </span>
           </motion.div>
           <h2 className="text-5xl md:text-7xl font-bold text-white mb-4 relative">
-            ZADOVOLJNI STRANKE
+            ZADOVOLJNE STRANKE
           </h2>
           <div className="w-24 h-[2px] bg-gradient-to-r from-transparent via-white/50 to-transparent mx-auto" />
         </motion.div>
